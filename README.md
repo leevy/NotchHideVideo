@@ -7,7 +7,7 @@ First, I tried the ["NotchHide"](https://github.com/drtaru/NotchHide). It's quit
 
 So, I vibe-coded my own version and added this feature. It turned out pretty good.
 
-Download the app: [release]()
+Download the app: [release](https://github.com/leevy/NotchHideVideo/releases)
 
 ---
 
